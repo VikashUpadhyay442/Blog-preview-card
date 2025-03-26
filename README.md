@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Github pages](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/VikashUpadhyay442/Blog-preview-card)
+- Live Site URL: [Github pages](https://vikashupadhyay442.github.io/Blog-preview-card/)
 
 ## My process
 
